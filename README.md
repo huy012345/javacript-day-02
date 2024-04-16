@@ -1,0 +1,1 @@
+# javacript-day-02
